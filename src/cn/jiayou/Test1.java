@@ -26,6 +26,6 @@ public class Test1 {
 	    	list.add("c");
 	    	list.add("d");
 			System.out.println(list);
-	    	
+	    	List<String>   list2=new  ArrayList<String>();
 		}
 }
