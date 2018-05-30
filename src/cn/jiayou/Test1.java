@@ -26,6 +26,7 @@ public class Test1 {
 	    	list.add("c");
 	    	list.add("d");
 			System.out.println(list);
+            System.out.println(list);
 	    	
 		}
 }
