@@ -29,6 +29,6 @@ public class Test1 {
 
 	    	List<String>   list2=new  ArrayList<String>();
             System.out.println(list);
-
+            System.out.println(list2);
 		}
 }
